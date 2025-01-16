@@ -1,0 +1,5 @@
+com\example\ocr\controller\OcrController.class
+com\example\ocr\config\OpenApiConfig.class
+com\example\ocr\service\OcrService.class
+com\example\ocr\service\SuryaOcrServiceImpl.class
+com\example\ocr\SuryaOcrApplication.class

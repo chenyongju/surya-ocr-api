@@ -1,0 +1,109 @@
+2025-01-16 13:18:42 [main] INFO  com.example.ocr.SuryaOcrApplication - Starting SuryaOcrApplication using Java 1.8.0_391 on USER-20240110PL with PID 16692 (D:\陈勇举\gitea代码\api\target\classes started by Administrator in D:\陈勇举\gitea代码\api)
+2025-01-16 13:18:42 [main] DEBUG com.example.ocr.SuryaOcrApplication - Running with Spring Boot v2.7.18, Spring v5.3.31
+2025-01-16 13:18:42 [main] INFO  com.example.ocr.SuryaOcrApplication - No active profile set, falling back to 1 default profile: "default"
+2025-01-16 13:18:43 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2025-01-16 13:18:43 [main] INFO  o.a.c.core.AprLifecycleListener - An older version [1.2.24] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.38]
+2025-01-16 13:18:43 [main] INFO  o.a.c.core.AprLifecycleListener - Loaded Apache Tomcat Native library [1.2.24] using APR version [1.7.0].
+2025-01-16 13:18:43 [main] INFO  o.a.c.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [false].
+2025-01-16 13:18:43 [main] INFO  o.a.c.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2025-01-16 13:18:43 [main] INFO  o.a.c.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1g  21 Apr 2020]
+2025-01-16 13:18:43 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-01-16 13:18:43 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.83]
+2025-01-16 13:18:43 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-01-16 13:18:43 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1009 ms
+2025-01-16 13:18:43 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2025-01-16 13:18:43 [main] INFO  com.example.ocr.SuryaOcrApplication - Started SuryaOcrApplication in 1.815 seconds (JVM running for 2.136)
+2025-01-16 13:20:48 [main] INFO  c.e.ocr.controller.OcrControllerTest - Starting OcrControllerTest using Java 1.8.0_391 on USER-20240110PL with PID 14740 (started by Administrator in D:\陈勇举\gitea代码\api)
+2025-01-16 13:20:48 [main] DEBUG c.e.ocr.controller.OcrControllerTest - Running with Spring Boot v2.7.18, Spring v5.3.31
+2025-01-16 13:20:48 [main] INFO  c.e.ocr.controller.OcrControllerTest - No active profile set, falling back to 1 default profile: "default"
+2025-01-16 13:20:50 [main] INFO  o.s.b.t.m.w.SpringBootMockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-01-16 13:20:50 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-01-16 13:20:50 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 1 ms
+2025-01-16 13:20:50 [main] INFO  c.e.ocr.controller.OcrControllerTest - Started OcrControllerTest in 2.586 seconds (JVM running for 3.856)
+2025-01-16 13:21:19 [main] INFO  c.e.ocr.controller.OcrControllerTest - Starting OcrControllerTest using Java 1.8.0_391 on USER-20240110PL with PID 5752 (started by Administrator in D:\陈勇举\gitea代码\api)
+2025-01-16 13:21:19 [main] DEBUG c.e.ocr.controller.OcrControllerTest - Running with Spring Boot v2.7.18, Spring v5.3.31
+2025-01-16 13:21:19 [main] INFO  c.e.ocr.controller.OcrControllerTest - No active profile set, falling back to 1 default profile: "default"
+2025-01-16 13:21:21 [main] INFO  o.s.b.t.m.w.SpringBootMockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-01-16 13:21:21 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-01-16 13:21:21 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 1 ms
+2025-01-16 13:21:21 [main] INFO  c.e.ocr.controller.OcrControllerTest - Started OcrControllerTest in 2.379 seconds (JVM running for 3.46)
+2025-01-16 13:22:09 [main] INFO  c.e.ocr.controller.OcrControllerTest - Starting OcrControllerTest using Java 1.8.0_391 on USER-20240110PL with PID 16368 (started by Administrator in D:\陈勇举\gitea代码\api)
+2025-01-16 13:22:09 [main] DEBUG c.e.ocr.controller.OcrControllerTest - Running with Spring Boot v2.7.18, Spring v5.3.31
+2025-01-16 13:22:09 [main] INFO  c.e.ocr.controller.OcrControllerTest - No active profile set, falling back to 1 default profile: "default"
+2025-01-16 13:22:12 [main] INFO  o.s.b.t.m.w.SpringBootMockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-01-16 13:22:12 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-01-16 13:22:12 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 2 ms
+2025-01-16 13:22:12 [main] INFO  c.e.ocr.controller.OcrControllerTest - Started OcrControllerTest in 3.416 seconds (JVM running for 4.47)
+2025-01-16 13:22:27 [main] INFO  c.e.ocr.controller.OcrControllerTest - Starting OcrControllerTest using Java 1.8.0_391 on USER-20240110PL with PID 380 (started by Administrator in D:\陈勇举\gitea代码\api)
+2025-01-16 13:22:27 [main] DEBUG c.e.ocr.controller.OcrControllerTest - Running with Spring Boot v2.7.18, Spring v5.3.31
+2025-01-16 13:22:27 [main] INFO  c.e.ocr.controller.OcrControllerTest - No active profile set, falling back to 1 default profile: "default"
+2025-01-16 13:22:29 [main] INFO  o.s.b.t.m.w.SpringBootMockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-01-16 13:22:29 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-01-16 13:22:29 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 1 ms
+2025-01-16 13:22:29 [main] INFO  c.e.ocr.controller.OcrControllerTest - Started OcrControllerTest in 2.457 seconds (JVM running for 3.637)
+2025-01-16 13:24:47 [main] INFO  com.example.ocr.SuryaOcrApplication - Starting SuryaOcrApplication v1.0.0 using Java 1.8.0_391 on USER-20240110PL with PID 15972 (D:\陈勇举\gitea代码\api\target\surya-ocr-api-1.0.0.jar started by Administrator in D:\陈勇举\gitea代码\api)
+2025-01-16 13:24:47 [main] DEBUG com.example.ocr.SuryaOcrApplication - Running with Spring Boot v2.7.18, Spring v5.3.31
+2025-01-16 13:24:47 [main] INFO  com.example.ocr.SuryaOcrApplication - No active profile set, falling back to 1 default profile: "default"
+2025-01-16 13:24:49 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2025-01-16 13:24:49 [main] INFO  o.a.c.core.AprLifecycleListener - An older version [1.2.24] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.38]
+2025-01-16 13:24:49 [main] INFO  o.a.c.core.AprLifecycleListener - Loaded Apache Tomcat Native library [1.2.24] using APR version [1.7.0].
+2025-01-16 13:24:49 [main] INFO  o.a.c.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [false].
+2025-01-16 13:24:49 [main] INFO  o.a.c.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2025-01-16 13:24:49 [main] INFO  o.a.c.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1g  21 Apr 2020]
+2025-01-16 13:24:49 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-01-16 13:24:49 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.83]
+2025-01-16 13:24:49 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-01-16 13:24:49 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1612 ms
+2025-01-16 13:24:50 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2025-01-16 13:24:50 [main] INFO  com.example.ocr.SuryaOcrApplication - Started SuryaOcrApplication in 2.95 seconds (JVM running for 3.427)
+2025-01-16 13:34:47 [main] INFO  com.example.ocr.SuryaOcrApplication - Starting SuryaOcrApplication using Java 1.8.0_391 on USER-20240110PL with PID 10828 (D:\陈勇举\gitea代码\api\target\classes started by Administrator in D:\陈勇举\gitea代码\api)
+2025-01-16 13:34:47 [main] DEBUG com.example.ocr.SuryaOcrApplication - Running with Spring Boot v2.7.18, Spring v5.3.31
+2025-01-16 13:34:47 [main] INFO  com.example.ocr.SuryaOcrApplication - No active profile set, falling back to 1 default profile: "default"
+2025-01-16 13:34:48 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2025-01-16 13:34:48 [main] INFO  o.a.c.core.AprLifecycleListener - An older version [1.2.24] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.38]
+2025-01-16 13:34:48 [main] INFO  o.a.c.core.AprLifecycleListener - Loaded Apache Tomcat Native library [1.2.24] using APR version [1.7.0].
+2025-01-16 13:34:48 [main] INFO  o.a.c.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [false].
+2025-01-16 13:34:48 [main] INFO  o.a.c.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2025-01-16 13:34:48 [main] INFO  o.a.c.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1g  21 Apr 2020]
+2025-01-16 13:34:48 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-01-16 13:34:48 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.83]
+2025-01-16 13:34:49 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-01-16 13:34:49 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1094 ms
+2025-01-16 13:34:49 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2025-01-16 13:34:49 [main] INFO  com.example.ocr.SuryaOcrApplication - Started SuryaOcrApplication in 1.854 seconds (JVM running for 2.152)
+2025-01-16 13:36:45 [main] INFO  com.example.ocr.SuryaOcrApplication - Starting SuryaOcrApplication using Java 1.8.0_391 on USER-20240110PL with PID 15692 (D:\陈勇举\gitea代码\api\target\classes started by Administrator in D:\陈勇举\gitea代码\api)
+2025-01-16 13:36:45 [main] DEBUG com.example.ocr.SuryaOcrApplication - Running with Spring Boot v2.7.18, Spring v5.3.31
+2025-01-16 13:36:45 [main] INFO  com.example.ocr.SuryaOcrApplication - No active profile set, falling back to 1 default profile: "default"
+2025-01-16 13:36:46 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat initialized with port(s): 8080 (http)
+2025-01-16 13:36:46 [main] INFO  o.a.c.core.AprLifecycleListener - An older version [1.2.24] of the Apache Tomcat Native library is installed, while Tomcat recommends a minimum version of [1.2.38]
+2025-01-16 13:36:46 [main] INFO  o.a.c.core.AprLifecycleListener - Loaded Apache Tomcat Native library [1.2.24] using APR version [1.7.0].
+2025-01-16 13:36:46 [main] INFO  o.a.c.core.AprLifecycleListener - APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true], UDS [false].
+2025-01-16 13:36:46 [main] INFO  o.a.c.core.AprLifecycleListener - APR/OpenSSL configuration: useAprConnector [false], useOpenSSL [true]
+2025-01-16 13:36:46 [main] INFO  o.a.c.core.AprLifecycleListener - OpenSSL successfully initialized [OpenSSL 1.1.1g  21 Apr 2020]
+2025-01-16 13:36:46 [main] INFO  o.a.catalina.core.StandardService - Starting service [Tomcat]
+2025-01-16 13:36:46 [main] INFO  o.a.catalina.core.StandardEngine - Starting Servlet engine: [Apache Tomcat/9.0.83]
+2025-01-16 13:36:46 [main] INFO  o.a.c.c.C.[Tomcat].[localhost].[/] - Initializing Spring embedded WebApplicationContext
+2025-01-16 13:36:46 [main] INFO  o.s.b.w.s.c.ServletWebServerApplicationContext - Root WebApplicationContext: initialization completed in 1059 ms
+2025-01-16 13:36:47 [main] INFO  o.s.b.w.e.tomcat.TomcatWebServer - Tomcat started on port(s): 8080 (http) with context path ''
+2025-01-16 13:36:47 [main] INFO  com.example.ocr.SuryaOcrApplication - Started SuryaOcrApplication in 1.882 seconds (JVM running for 2.333)
+2025-01-16 13:40:05 [main] INFO  c.e.ocr.controller.OcrControllerTest - Starting OcrControllerTest using Java 1.8.0_391 on USER-20240110PL with PID 8684 (started by Administrator in D:\陈勇举\gitea代码\api)
+2025-01-16 13:40:05 [main] DEBUG c.e.ocr.controller.OcrControllerTest - Running with Spring Boot v2.7.18, Spring v5.3.31
+2025-01-16 13:40:05 [main] INFO  c.e.ocr.controller.OcrControllerTest - No active profile set, falling back to 1 default profile: "default"
+2025-01-16 13:40:07 [main] INFO  o.s.b.t.m.w.SpringBootMockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-01-16 13:40:07 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-01-16 13:40:07 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 1 ms
+2025-01-16 13:40:07 [main] INFO  c.e.ocr.controller.OcrControllerTest - Started OcrControllerTest in 2.699 seconds (JVM running for 3.901)
+2025-01-16 13:57:04 [main] INFO  c.e.ocr.controller.OcrControllerTest - Starting OcrControllerTest using Java 1.8.0_391 on USER-20240110PL with PID 11752 (started by Administrator in D:\陈勇举\gitea代码\api)
+2025-01-16 13:57:04 [main] DEBUG c.e.ocr.controller.OcrControllerTest - Running with Spring Boot v2.7.18, Spring v5.3.31
+2025-01-16 13:57:04 [main] INFO  c.e.ocr.controller.OcrControllerTest - No active profile set, falling back to 1 default profile: "default"
+2025-01-16 13:57:05 [main] INFO  o.s.b.t.m.w.SpringBootMockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-01-16 13:57:05 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-01-16 13:57:05 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 1 ms
+2025-01-16 13:57:05 [main] INFO  c.e.ocr.controller.OcrControllerTest - Started OcrControllerTest in 2.7 seconds (JVM running for 3.909)
+2025-01-16 14:30:18 [main] INFO  c.e.ocr.controller.OcrControllerTest - Starting OcrControllerTest using Java 1.8.0_391 on USER-20240110PL with PID 17524 (started by Administrator in D:\陈勇举\gitea代码\api)
+2025-01-16 14:30:18 [main] DEBUG c.e.ocr.controller.OcrControllerTest - Running with Spring Boot v2.7.18, Spring v5.3.31
+2025-01-16 14:30:18 [main] INFO  c.e.ocr.controller.OcrControllerTest - No active profile set, falling back to 1 default profile: "default"
+2025-01-16 14:30:20 [main] INFO  o.s.b.t.m.w.SpringBootMockServletContext - Initializing Spring TestDispatcherServlet ''
+2025-01-16 14:30:20 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Initializing Servlet ''
+2025-01-16 14:30:20 [main] INFO  o.s.t.w.s.TestDispatcherServlet - Completed initialization in 1 ms
+2025-01-16 14:30:20 [main] INFO  c.e.ocr.controller.OcrControllerTest - Started OcrControllerTest in 2.432 seconds (JVM running for 3.656)
